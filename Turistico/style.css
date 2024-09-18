@@ -1,0 +1,144 @@
+*{
+  font-family: "Open Sans", sans-serif; 
+  margin: 0;
+  padding: 0;
+  
+}
+
+body{
+  background-color: #F5F4F0;
+}
+
+main{
+  padding: 0;
+}
+
+#page{
+  box-sizing: border-box;
+  width: 1120px;
+  margin: 88px auto; 
+  border-radius: 80px;
+
+}
+
+#introduction h1 {
+  margin-bottom: 40px;
+}
+
+#introduction h6 {
+  margin: 8px auto 2px;
+}
+
+#introduction p {
+  margin: 24px auto 40px;
+  font-style: italic;
+  text-align: center;
+}
+
+#suggestion h6{
+  margin: 64px auto 2px;
+}
+
+#suggestion h1{
+  margin-bottom: 6px;
+}
+#suggestion  h1 + p {
+  margin-bottom:64px;
+}
+
+#suggestion img{
+  margin-bottom: 20px;
+}
+
+#suggestion img + h3{
+  margin: auto auto 4px;
+}
+
+#suggestion hr + p {
+  margin-top: 40px;
+  text-align: center
+}
+
+h1{
+  font-weight: bold;
+  font-size: 36px;
+}
+h2{
+  font-weight: bold;
+  font-size: 32px;
+}
+
+h3{
+  color: 1B1B1B;
+  font-weight: bold;
+  font-size: 28px; 
+}
+
+  h6 {
+  text-transform: uppercase;
+  color: #E1624F;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+hr{
+  background-color: #D9D9D9;
+}
+
+
+p {
+  color: #333333;
+  font-size: 16px;
+  font-weight: regular;
+}
+
+
+
+img{
+  border-radius: 28px;
+  height: auto;
+}
+
+ul{
+  padding-left: 23px ;
+}
+
+ul li::marker {
+  color: black; /* Deixa o marcador preto ou a cor padrão */
+}
+
+footer{
+  color: #333333;
+  text-align: center;
+  padding-bottom: 48px;
+  font-size: 16px;
+  font-family: "Alice", serif;
+  font-weight: bold;
+}
+
+footer img{
+  vertical-align: middle;
+}
+
+.casais {
+  font-weight: bold;
+  color: #591B98;
+}
+
+.familias{
+  font-weight: bold;
+  color: #E5245E;
+  
+}
+.orcamento{
+  font-weight: bold;
+  color: #E95E10;
+  margin-bottom: 40px;
+  
+}
+
+.historia { 
+  font-weight: bold;
+  color: #0C51A7;
+  margin-bottom: 48px;
+}
