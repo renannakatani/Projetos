@@ -2,4 +2,4 @@
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
- <a href="">Executar o desafio 10</a>
+ <a href="https://renannakatani.github.io/Projetos/curso-guanabara/desafios/desafio010/">Executar o desafio 10</a>
