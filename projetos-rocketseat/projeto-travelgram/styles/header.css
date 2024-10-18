@@ -5,13 +5,10 @@ header {
 #profile {
   display: flex;
   gap: 32px;
+  font: var(--text-lg);
+  color:var(--text-color-primary);
 }
 
 #profile > div {
   max-width: 384px;
-}
-
-#profile {
-  font: var(--text-lg);
-  color:var(--text-color-primary);
 }
